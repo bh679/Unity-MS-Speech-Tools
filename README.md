@@ -4,7 +4,7 @@ Tools for using MS Text to Speech and Speech to Text
 ## Requirements
 Unity (most recent tested on 2021.3.16f1) <br />
 [Brennan's Unity Tools](https://github.com/bh679/Unity-Tools) (mannualy import)<br />
-MS Cog tools (link incoming)
+MS Cog tools (link incoming)<br />
 [Input System com.unity.inputsystem](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.4/manual/index.html) (Importing may require a restart of Unity)<br />
 [TextMeshPro com.unity.textmeshpro](https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.0)<br />
 
